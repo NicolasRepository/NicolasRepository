@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:A855F7&height=180&section=header&text=Nicolas%20Almeida%20Faria&fontSize=40" width="100%" />
 </div>
+
 ### Portfólios & Perfil Acadêmico
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nicolasfdev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nicolasfdev.vercel.app)
