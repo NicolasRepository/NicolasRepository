@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:A855F7&height=180&section=header&text=Nicolas%20Almeida%20Faria&fontSize=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&fontColor=ffffff&height=180&section=header&text=Nicolas%20Almeida%20Faria&fontSize=40" width="100%" />
 </div>
 
 ### Portfólios & Perfil Acadêmico
