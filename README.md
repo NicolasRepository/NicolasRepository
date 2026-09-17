@@ -2,6 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&fontColor=ffffff&height=180&section=header&text=Nicolas%20Almeida%20Faria&fontSize=40" width="100%" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ### Portfólios & Perfil Acadêmico
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nicolasfdev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nicolasfdev.vercel.app)
